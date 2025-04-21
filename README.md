@@ -1,9 +1,9 @@
   
 ПОДРОБНАЯ ИНСТРУКЦИЯ ПО МОДИФИЦИРОВАНИЮ ИГРЫ DAY R SURVIVAL  
-  
+
 ВНИМАНИЕ!  
   
-Информация представленная в этом документе предназначена **ТОЛЬКО для
+Информация представленная в этом документе является доработанным переводом (оригинал https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Angelix1/dayr&ved=2ahUKEwilyOXb3-eMAxWaGRAIHRmrKZUQFnoECBoQAQ&usg=AOvVaw1bFmWHUOKzrvAQo3jnYfOb) и предназначена **ТОЛЬКО для
 личного использования и ТОЛЬКО в образовательных целях!**
 Инструкция не распространяет, не модифицирует или обходит какие либо
 защищённые авторским правом файлы, DRM защиту или системы
@@ -49,7 +49,7 @@
   GuideGitHubhttps://github.com
   ](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Angelix1/dayr&ved=2ahUKEwilyOXb3-eMAxWaGRAIHRmrKZUQFnoECBoQAQ&usg=AOvVaw1bFmWHUOKzrvAQo3jnYfOb)[›](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Angelix1/dayr&ved=2ahUKEwilyOXb3-eMAxWaGRAIHRmrKZUQFnoECBoQAQ&usg=AOvVaw1bFmWHUOKzrvAQo3jnYfOb)[
   Angelix1](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Angelix1/dayr&ved=2ahUKEwilyOXb3-eMAxWaGRAIHRmrKZUQFnoECBoQAQ&usg=AOvVaw1bFmWHUOKzrvAQo3jnYfOb))
-  или получите все нужные инструменты  
+  или получите все нужные инструменты другим способом  
     
   Шаг II: создание рабочей папки  
 
@@ -156,7 +156,7 @@
   lua  
     
     
-    
+  
     
     
     
