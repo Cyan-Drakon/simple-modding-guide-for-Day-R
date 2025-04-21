@@ -1,7 +1,7 @@
   
 ПОДРОБНАЯ ИНСТРУКЦИЯ ПО МОДИФИЦИРОВАНИЮ ИГРЫ DAY R SURVIVAL  
 
->ВНИМАНИЕ!  
+**ВНИМАНИЕ!**
 >  
 >Информация представленная в этом документе является доработанным переводом (оригинал https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/Angelix1/dayr&ved=2ahUKEwilyOXb3-eMAxWaGRAIHRmrKZUQFnoECBoQAQ&usg=AOvVaw1bFmWHUOKzrvAQo3jnYfOb) и предназначена **ТОЛЬКО для
 >личного использования и ТОЛЬКО в образовательных целях!**
